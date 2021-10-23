@@ -52,7 +52,7 @@ Note in the Readings column:
   <td><b>Text Classification</b>
     <br/>· SLP3, Ch 4.
     <BR/>· E, Chs 2–4.  
-  </td> 
+  </td>
   <td>
     <BR/>· Assignment 1 due (10% of Final Marks; Due: Thu, 4 Feb 23:59 SGT).
     <BR/>· Assignment 2 out.
@@ -72,7 +72,7 @@ Note in the Readings column:
   <td><b>Week 06</b><br />19 Feb
   </td>
   <td><b>Embeddings</b> and <b>Midterm</b> (Fri, 19 Feb 9:00-10:00 SGT)
-  </td> 
+  </td>
   <td>· Midterm (20%)
     <BR/>· SLP3, Ch 6.
     <BR/>· E, Ch 14.
