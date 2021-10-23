@@ -33,11 +33,11 @@ These tutorial session timings still subject to change. Please see NUSMods for t
 
 Tutorial Sessions (tentative):
 
-1. T01. Tuesdays, 13:00-14:00 (COM1 02-04)
-2. T02. Tuesdays, 14:00-15:00 (COM1 02-04)
-3. T03. Wednesdays, 13:00-14:00 (COM1 02-04)
-4. T04. Wednesdays, 14:00-15:00 (COM1 02-04)
-4. T05. Wednesdays, 15:00-16:00 (COM1 02-04)
+1. T01. Tuesdays, 13:00-14:00 (Seminar Room 2; SR2, COM1 02-04)
+2. T02. Tuesdays, 14:00-15:00 (Seminar Room 2; SR2, COM1 02-04)
+3. T03. Wednesdays, 13:00-14:00 (Seminar Room 2; SR2, COM1 02-04)
+4. T04. Wednesdays, 14:00-15:00 (Seminar Room 2; SR2, COM1 02-04)
+4. T05. Wednesdays, 15:00-16:00 (Seminar Room 2; SR2, COM1 02-04)
 
 ## Course Characteristics
 
