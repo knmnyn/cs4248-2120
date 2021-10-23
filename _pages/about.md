@@ -19,9 +19,9 @@ redirect_from:
 </P>
 -->   
 
-This module deals with computer processing of human languages, emphasizing a corpus-based empirical approach. The topics covered include: 1. Linguistic essentials. 2. Basic techniques and algorithms: Hidden Markov model, Viterbi algorithm, supervised learning algorithms. 3. Words: part-of-speech tagging. 4. Syntax: noun phrase chunking, named entity tagging, parsing (top down, bottom up, probabilistic). 5. Semantics: word sense disambiguation. 6. Pragmatics: discourse, co-reference resolution. 7. Applications: text categorisation, text summarisation, language identification, information extraction, question answering, machine translation.
+This module deals with computer processing of human languages, including the use of neural networks and deep learning in natural language processing. The topics covered include: regular expressions, words and edit distance, n-grams, part-of-speech tagging, feed-forward neural networks, neural network training, word embedding, convolutional neural networks, recurrent neural networks, sequence-to-sequence models with attention, transformers, context-free grammars, syntactic parsing, semantics, and discourse.
 
-We will be using the [LumiNUS]() 🔒 Learning Management System for the administration of this course.  We will also be using a Slack group for both announcements and class discussion.  Please join it using your LumiNUS registered email address: [cs4248-2021.slack.com](https://cs4248-2021.slack.com/).
+We will be using the [LumiNUS](https://luminus.nus.edu.sg/modules/7ed05d58-129e-4b4e-a9e3-22802fc6f8e8) 🔒 Learning Management System for the administration of this course.  We will also be using a Slack group for both announcements and class discussion.  Please join it using your LumiNUS registered email address: [cs4248-2021.slack.com](https://cs4248-2021.slack.com/).
 
 N.B. We will be teaching and using the Python programming language throughout this class and Jupyter Notebook via Google Colab. We will using Python 3.x, and largely the SciKitLearn and PyTorch libraries.
 
