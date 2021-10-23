@@ -11,11 +11,11 @@ A Github Pages template for academic websites. This was forked (then detached) b
 Notes:
 Colors for 2120:
 
-E8B770 Tan
-FFB03F Pale Orange
-FF9700 Orange
-E8D3B6 Ash
-FFFFFF White
+#F28E13 Pale Orange
+#F27B13 Bright Orange
+#F2620F Orange
+#D9430D Darker Orange
+#A62508 Burnt Orange
 
 D02D23 hex is the color code for the red background for the 2020 webpage.
 500e80 hex is the color code for the purple background for the 2010 webpage.

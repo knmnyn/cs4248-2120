@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-#### NUS SoC, 2020/2021, Semester II, Time and Venue: Fridays, 09:00-11:00 @ LT19.  Session will be recorded where our technology behaves appropriately and shared on LumiNUS. 
+#### NUS SoC, 2021/2022, Semester II, Time and Venue: Fridays, 09:00-11:00 @ LT19.  Session will be recorded where our technology behaves appropriately and shared on LumiNUS.
 
-<!-- 
+<!--
 <P>&nbsp;
 </P>
 <P>&nbsp;
@@ -21,7 +21,7 @@ redirect_from:
 
 This module deals with computer processing of human languages, emphasizing a corpus-based empirical approach. The topics covered include: 1. Linguistic essentials. 2. Basic techniques and algorithms: Hidden Markov model, Viterbi algorithm, supervised learning algorithms. 3. Words: part-of-speech tagging. 4. Syntax: noun phrase chunking, named entity tagging, parsing (top down, bottom up, probabilistic). 5. Semantics: word sense disambiguation. 6. Pragmatics: discourse, co-reference resolution. 7. Applications: text categorisation, text summarisation, language identification, information extraction, question answering, machine translation.
 
-We will be using the [LumiNUS](https://luminus.nus.edu.sg/modules/eba8b739-2fa1-4148-8384-d1fe7a1034fb) 🔒 Learning Management System for the administration of this course.  We will also be using a Slack group for both announcements and class discussion.  Please join it using your LumiNUS registered email address: [cs4248-2020.slack.com](https://cs4248-2020.slack.com/).
+We will be using the [LumiNUS]() 🔒 Learning Management System for the administration of this course.  We will also be using a Slack group for both announcements and class discussion.  Please join it using your LumiNUS registered email address: [cs4248-2021.slack.com](https://cs4248-2021.slack.com/).
 
 N.B. We will be teaching and using the Python programming language throughout this class and Jupyter Notebook via Google Colab. We will using Python 3.x, and largely the SciKitLearn and PyTorch libraries.
 
@@ -31,18 +31,18 @@ N.B. We will be teaching and using the Python programming language throughout th
 
 **Prerequisites**: (CS3243 _Introduction to Artificial Intelligence_ or CS3245 _Information Retrieval_) and (EE2012(A) _Analytical Methods in Electrical and Computer Engineering_, MA2216 _Probability_, ST1232 _Statistics for Life Sciences_, or ST2131 _Probability_, or ST2334 _Probability and Statistics_)
 
-Questions about prerequisities and waivers are handled centrally by the department. For this semester (Semester 2020), Please contact [cs-curriculum@comp.nus.edu.sg](mailto:cs-curriculum@comp.nus.edu.sg) to describe your case and seek any waivers regarding prerequisities.
+Questions about prerequisities and waivers are handled centrally by the department. For this semester (Semester 2120), Please contact [cs-curriculum@comp.nus.edu.sg](mailto:cs-curriculum@comp.nus.edu.sg) to describe your case and seek any waivers regarding prerequisities.
 
 ### Workload
 
-(3-0-0-3-4)
+(3-0.5-0-4-3.5)
 
 Translation:
 
 * 3 lecture hours per week.
-* 0 hour of tutorials.
+* 0.5 hours of tutorials per week (biweekly).
 * 4 hours for projects, assignments, fieldwork, etc., per week.
-* 4 hours for preparatory work by a student per week.
+* 3.5 hours for preparatory work by a student per week.
 
 ## Instructors
 
@@ -80,7 +80,7 @@ Translation:
   <img src="images/xinyuan.jpg"/><BR/>
   <strong>LU Xinyuan</strong>
   <BR/>
-<A HREF="mailto:luxinyuan@u.nus.edu">luxinyuan@u.nus.edu</A><BR/> 
+<A HREF="mailto:luxinyuan@u.nus.edu">luxinyuan@u.nus.edu</A><BR/>
 </div>
 
 <div class="tutor__profile">
@@ -103,26 +103,26 @@ Translation:
 
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
-<div class="tutor__profile"> 
-  <img src="images/rahul.jpg"/><BR/> 
-  <strong>Rahul BAID</strong> 
-  <BR/> 
-<A HREF="mailto:rahul.baid@u.nus.edu">rahul.baid@u.nus.edu</A><BR/> 
+<div class="tutor__profile">
+  <img src="images/rahul.jpg"/><BR/>
+  <strong>Rahul BAID</strong>
+  <BR/>
+<A HREF="mailto:rahul.baid@u.nus.edu">rahul.baid@u.nus.edu</A><BR/>
 </div>
 
-<div class="tutor__profile"> 
-  <img src="images/Shreyas.jpg"/><BR/> 
-  <strong>Shreyas KUTHANOOR PRAKASH</strong> 
-  <BR/> 
-<A HREF="mailto:shreyas@u.nus.edu">shreyas@u.nus.edu</A><BR/> 
+<div class="tutor__profile">
+  <img src="images/Shreyas.jpg"/><BR/>
+  <strong>Shreyas KUTHANOOR PRAKASH</strong>
+  <BR/>
+<A HREF="mailto:shreyas@u.nus.edu">shreyas@u.nus.edu</A><BR/>
 </div>
 
 
 
-<div class="tutor__profile"> 
-  <img src="images/Tianyang.jpg"/><BR/> 
-  <strong>ZHANG Tianyang</strong> 
-  <BR/> 
+<div class="tutor__profile">
+  <img src="images/Tianyang.jpg"/><BR/>
+  <strong>ZHANG Tianyang</strong>
+  <BR/>
 <A HREF="mailto:zhang.tianyang@u.nus.edu">zhang.tianyang@u.nus.edu</A><BR/>
 </div>
 
@@ -153,7 +153,7 @@ Translation:
 
 5. I do not fulfill the exact prerequisite requirements for this module.  Can you grant me this exception?
 
-   Module coordinators do not approve prerequisite waivers in our School.  You need to approach our School's curriculum coordinator for permission.  Generally, the answer is no, except in extenuating circumstances.  E-mail `cs-curriculum@comp.nus.edu.sg` and apply for the waiver on ModRec. 
+   Module coordinators do not approve prerequisite waivers in our School.  You need to approach our School's curriculum coordinator for permission.  Generally, the answer is no, except in extenuating circumstances.  E-mail `cs-curriculum@comp.nus.edu.sg` and apply for the waiver on ModRec.
 
 6. I need this course in order to graduate this coming semester.  Can you grant me this exception?
 
