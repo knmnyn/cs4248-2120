@@ -25,6 +25,20 @@ We will be using the [LumiNUS](https://luminus.nus.edu.sg/modules/7ed05d58-129e-
 
 N.B. We will be teaching and using the Python programming language throughout this class and Jupyter Notebook via Google Colab. We will using Python 3.x, and largely the SciKitLearn and PyTorch libraries.
 
+## Tutorial Sessions
+
+There will be tutorials for this class starting in Week 03. As the class is flipped, these sessions will be the primary means by which we touch base with you and get to know you personally.  Tutorials will be held roughly bi-weekly (once every two weeks).  Please do attend these session (physically or via Zoom), as they will not be webcasted (although tutorial solutions will be distributed, you should come to the sessions to get the complete picture, and to be a part of the class).
+
+These tutorial session timings still subject to change. Please see NUSMods for the most up-to-date details. As an enrolled student, you are entitled to one tutorial placement, and need to attend that slot even if not optimal for you.
+
+Tutorial Sessions (tentative):
+
+1. T01. Tuesdays, 13:00-14:00 (COM1 02-04)
+2. T02. Tuesdays, 14:00-15:00 (COM1 02-04)
+3. T03. Wednesdays, 13:00-14:00 (COM1 02-04)
+4. T04. Wednesdays, 14:00-15:00 (COM1 02-04)
+4. T05. Wednesdays, 15:00-16:00 (COM1 02-04)
+
 ## Course Characteristics
 
 **Modular Credits**: 4.
