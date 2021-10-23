@@ -29,19 +29,23 @@ N.B. We will be teaching and using the Python programming language throughout th
 
 **Modular Credits**: 4.
 
-**Prerequisites**: (CS3243 _Introduction to Artificial Intelligence_ or CS3245 _Information Retrieval_) and (EE2012(A) _Analytical Methods in Electrical and Computer Engineering_, MA2216 _Probability_, ST1232 _Statistics for Life Sciences_, or ST2131 _Probability_, or ST2334 _Probability and Statistics_)
+**Prerequisites (each bullet is required)**:
+* (CS3243 _Introduction to Artificial Intelligence_ or CS3245 _Information Retrieval_), and
+* (MA1102R _Calculus (Deprecated)_ or MA2002 _Calculus_ or MA1505 _Mathematics I_ or MA1507 _Advanced Calculus (Deprecated)_ or MA1521 _Calculus for Computing_ or:
+  * (both MA1511 _Engineeering Calculus_ and MA1512 _Differential Equations for Engineering_)), and
+* (EE2012/A _Analytical Methods in Electrical and Computer Engineering_, or MA2216 _Probability_, or ST2131 _Probability_, or ST2334 _Probability and Statistics_).
 
 Questions about prerequisities and waivers are handled centrally by the department. For this semester (Semester 2120), Please contact [cs-curriculum@comp.nus.edu.sg](mailto:cs-curriculum@comp.nus.edu.sg) to describe your case and seek any waivers regarding prerequisities.
 
 ### Workload
 
-(3-0.5-0-4-3.5)
+(3-0.5-0-3-3.5)
 
 Translation:
 
 * 3 lecture hours per week.
 * 0.5 hours of tutorials per week (biweekly).
-* 4 hours for projects, assignments, fieldwork, etc., per week.
+* 3 hours for projects, assignments, fieldwork, etc., per week.
 * 3.5 hours for preparatory work by a student per week.
 
 ## Instructors
