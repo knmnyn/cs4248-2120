@@ -88,24 +88,10 @@ Translation:
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
 <div class="tutor__profile">
-  <img src="images/anab.jpg"/><BR/>
-  <strong>Anab Maulana BARIK</strong>
+  <img src="images/yisong.png"/><BR/>
+  <strong>MIAO Yisong</strong>
   <BR/>
  <A HREF="mailto:anabmaulana@u.nus.edu">anabmaulana@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <img src="images/xinyuan.jpg"/><BR/>
-  <strong>LU Xinyuan</strong>
-  <BR/>
-<A HREF="mailto:luxinyuan@u.nus.edu">luxinyuan@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <img src="images/liangming.jpg"/><BR/>
-  <strong>PAN Liangming</strong>
-  <BR/>
-<A HREF="mailto:e0272310@u.nus.edu">e0272310@u.nus.edu</A><BR/>
 </div>
 
 <div class="tutor__profile">
@@ -113,6 +99,13 @@ Translation:
   <strong>Muhammad Reza QORIB</strong>
   <BR/>
 <A HREF="mailto:mrqorib@u.nus.edu">mrqorib@u.nus.edu</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <img src="images/yuxi.png"/><BR/>
+  <strong>XIE Yuxi</strong>
+  <BR/>
+<A HREF="mailto:luxinyuan@u.nus.edu">luxinyuan@u.nus.edu</A><BR/>
 </div>
 
 </div>
@@ -134,8 +127,6 @@ Translation:
   <BR/>
 <A HREF="mailto:shreyas@u.nus.edu">shreyas@u.nus.edu</A><BR/>
 </div>
-
-
 
 <div class="tutor__profile">
   <img src="images/Tianyang.jpg"/><BR/>
