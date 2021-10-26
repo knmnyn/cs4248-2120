@@ -91,7 +91,7 @@ Translation:
   <img src="images/yisong.png"/><BR/>
   <strong>MIAO Yisong</strong>
   <BR/>
- <A HREF="mailto:anabmaulana@u.nus.edu">anabmaulana@u.nus.edu</A><BR/>
+ <A HREF="mailto:miaoyisong@gmail.com">miaoyisong@gmail.com</A><BR/>
 </div>
 
 <div class="tutor__profile">
@@ -105,7 +105,7 @@ Translation:
   <img src="images/yuxi.png"/><BR/>
   <strong>XIE Yuxi</strong>
   <BR/>
-<A HREF="mailto:luxinyuan@u.nus.edu">luxinyuan@u.nus.edu</A><BR/>
+<A HREF="mailto:xieyuxi@u.nus.edu">xieyuxi@u.nus.edu</A><BR/>
 </div>
 
 </div>
