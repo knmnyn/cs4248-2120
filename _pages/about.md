@@ -112,6 +112,7 @@ Translation:
 
 ### Undergraduate Teaching Assistants
 
+<!--
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
 <div class="tutor__profile">
@@ -136,7 +137,7 @@ Translation:
 </div>
 
 </div>
-
+-->
 ## Frequently Asked Questions
 
 1. Will the module be webcasted (recorded or broadcasted live)?
