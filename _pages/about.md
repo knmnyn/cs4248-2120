@@ -75,6 +75,14 @@ Translation:
     <i class="fab fa-fw fa-inverse fa-slack"></i> @Min<br/>
     Office hours are held after class, but more commonly by appointment. Emails and @Direct Mentions in Slack to me as a default are assumed to be public, and my replies and your anonymized email will likely be posted to Coursemology. Please let me know if you do not want the contents of your communication posted; I will be happy to honor your requests.
   </div>
+
+  <div class="tutor__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/chris-120.jpg"/><BR/>
+  <strong>Christian VON DER WETH</strong>
+  <BR/>
+  <A HREF="mailto:chris@comp.nus.edu.sg">chris@comp.nus.edu.sg</A><BR/>
+</div>  
 </div>
 
 </div>
