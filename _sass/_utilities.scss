@@ -243,6 +243,10 @@ body:hover .visually-hidden button {
   .fa-rss-square {
     color: $rss-color;
   }
+   
+  .fa-slack, .fa-slack-square {
+     color: $slack-color;
+  }
 
   .fa-soundcloud {
     color: $soundcloud-color;
