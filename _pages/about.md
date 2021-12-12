@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### NUS SoC, 2021/2022, Semester II, Time and Venue: Fridays, 09:00-11:00 @ LT19.  Session will be recorded where our technology behaves appropriately and shared on LumiNUS.
+#### NUS SoC, 2021/2022, Semester II, Time and Venue: L1: Fridays, 09:00–12:00 @ LT19 (hybrid). L2: Mondays, 18:30–21:30 (online only).  Sessions will be recorded where our technology behaves appropriately and shared on LumiNUS.
 
 <!--
 <P>&nbsp;
@@ -53,7 +53,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 ### Workload
 
-(3-0.5-0-3-3.5)
+(3-0.5-0-3-3.5): 10 hours per week
 
 Translation:
 
@@ -73,7 +73,7 @@ Translation:
     <a href="mailto:kanmy@comp.nus.edu.sg" style="text-decoration:none"><i class="fas fa-envelope"></i> kanmy@comp.nus.edu.sg</a><br/>
     <i class="fas fa-building"></i> AS6 05-12<br/>
     <i class="fab fa-fw fa-inverse fa-slack"></i> @Min<br/>
-    Office hours are held after class, but more commonly by appointment. Emails and @Direct Mentions in Slack to me as a default are assumed to be public, and my replies and your anonymized email will likely be posted to Coursemology. Please let me know if you do not want the contents of your communication posted; I will be happy to honor your requests.
+    Office hours are held after class, but more commonly by appointment. Emails and @Direct Mentions in Slack to me as a default are assumed to be public, and my replies and your anonymized email will likely be posted to Slack. Please let me know if you do not want the contents of your communication posted; I will be happy to honor your requests.
   </div>
 
   <div class="tutor__profile">
@@ -148,31 +148,50 @@ Translation:
 -->
 ## Frequently Asked Questions
 
-1. Will the module be webcasted (recorded or broadcasted live)?
+1. _What is the format of this course?_
+This course's administration is currently in flux due to higher demand for the subject.  We have opened two sections of the course with different learning modes.  L1 taught by Kan Min-Yen on Friday AMs will feature hybrid lecture (lecture both via synchronous Zoom online and physical lecture at LT15); L2 taught by Christian von der Weth on Monday evenings will be online lecture only.
+ 
+1. _Will the L1 and L2 sections of the course work the same?_ 
+Generally, yes.  We plan to use the similar assessments.  However, due to the timings being different, some details are likely to be different.   For examples since L1 is offered on Friday and L2 on Monday (at opposite ends of the week), the topics may differ.
+ 
+1. _Does the L1 section thus compel students to come in for physical lecture?_
+No it does not.  We believe there are certain students that learn better in a physical, less distracting environment.  If you are one of them and enrolled for L1, please join us in the physical environment.  Historically, we find that engaged learners tend to fare better with the course materials and with their marks when they are able to interact with our instruction staff, and this is easier to facilitate in a physical setting.
+  
+1. _How about tutorials?_
+Tutorials will be offered every other week after Week 03.  The teaching mode for tutorials has yet to be decided.  We believe the LumiNUS timetable currently does not accurately reflect the slots for tutorials and are working to fix this issue.
+ 
+1. _I'm doing an ATAP, SIP, FYP concerning NLP.  Can I get an exception to enter the course?_
+We are still working on policy concerning this matter.  Check back later.
+ 
+1. _Can you add me as a guest student and if so, what are my responsibilities?_
+We do accept guest student enrollment in this course.  You may write to either lecturer to gain access to the course notes and lecture webcasts.  However, we have a quota cap for a reason, to best serve the fully enrolled students.  Thus, if our teaching staff lack bandwidth, we may not be able to answer your questions and concerns.  Please do understand.
+
+1. _Will the module be webcasted (recorded or broadcasted live)?_
    Yes, barring technical difficulties, we plan to record the course lectures and make them available on LumiNUS.  That is, we will make our best effort to do this, but do not guarantee quality of service for webcasted or remote learning.  We will attempt to make the lectures available on simulcast on Zoom, links to be available to course students only (you will need to be authenticated to your NUS-linked Zoom account to connect to the lectures).
 
    Recorded lectures will be put into the `Web Lectures` folder on the LumiNUS platform.
 
-2. I'd like to take this module but couldn't secure it during ModReg because the quota is full.  Will it be possible to make an exception?
-
-   See below answers to similar questions.  Generally the answer is no, but we welcome students to audit the class, or take the class in subsequent semesters (CS4248 is offered in both Sem 1 and 2 now).  We know the demand is high (we heard 160 students for 100 slots), but we need to keep the student cap at a reasonable number this semester.  
+1. _I'd like to take this module but couldn't secure it during ModReg because the quota is full.  Will it be possible to make an exception?_
+See below answers to similar questions.  Generally the answer is no, but we welcome students to audit the class, or take the class in subsequent semesters (CS4248 is offered in both Sem 1 and 2 now).  We know the demand is high (we heard 160 students for 100 slots), but we need to keep the student cap at a reasonable number this semester.  
 
    If you'd like to audit, please send a mail to cs4248@comp.nus.edu.sg or a DM to @Min with your name and NUS LumiNUS-registered email address.
 
-3. The course is stated as having a physical class at Lecture Theatre 19.  Is that correct?
+1. _The course is stated as having a physical class for the L1 section at Lecture Theatre 19.  Is that correct?_
 
    Yes.  Lecture will be on Fridays physically at LT19.  LT19 has a physical safe distancing limit of 50 students, so the first 50 students are welcomed at the LT and we will implement the NUS Classroom Attendance System to ensure that those who wish to attend can.  If coming to the class, please make it to the venue by 8:55 so that class can start on-time.
 
-   A fixed Zoom session e-learning option will be given out students to attend class if not attending physically (see first QA item)
+   A fixed Zoom session e-learning option will be given out students to attend class if not attending physically (see first QA item).
 
-4. I'm taking ATAP this semester.  I need an exception to get admitted to this class.  Can you grant me this exception?
+<!--
+1. _I'm taking ATAP this semester.  I need an exception to get admitted to this class.  Can you grant me this exception?_
 
    Sorry, no.  This is a unilateral policy.  CS4248 is in high demand and generally oversubscribed.  We reserve and exercise the right to make this course only available to full-time NUS students (locally matriculated and exchange students).  We welcome you to take the course when you return to NUS full-time.
+-->
 
-5. I do not fulfill the exact prerequisite requirements for this module.  Can you grant me this exception?
+1. _I do not fulfill the exact prerequisite requirements for this module.  Can you grant me this exception?_
 
    Module coordinators do not approve prerequisite waivers in our School.  You need to approach our School's curriculum coordinator for permission.  Generally, the answer is no, except in extenuating circumstances.  E-mail `cs-curriculum@comp.nus.edu.sg` and apply for the waiver on ModRec.
 
-6. I need this course in order to graduate this coming semester.  Can you grant me this exception?
+1. _I need this course in order to graduate this coming semester.  Can you grant me this exception?_
 
    Please ask your academic advisor to explain the situation to me.  We will see what we can do and perhaps help your academic advisor help plan future students' plans accordingly.
