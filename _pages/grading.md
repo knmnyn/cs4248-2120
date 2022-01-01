@@ -7,28 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
-⚠️ _This page is preliminary.  Expect it to change. Last updated 12 Jan 2021._ ⚠️
+⚠️ _This page is preliminary.  Expect it to change. Last updated 1 Jan 2022._ ⚠️
 
-The grading for this class will comprise of the following continuous assessment milestones, inclusive of one exam. The exam will feature some MCQ and MRQ.  Multiple Response questions allow for zero, 1, more than 1 or all options to be checked.  MRQs are graded to correct for random chance agreement.
+The grading for this class will comprise of the following continuous assessment milestones:
 
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
   <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
   <tbody>
-    <tr><td>Midterm Test (during 1st hour of Week 06)</td><td>20%</td></tr>
+    <tr><td>Final Assessment</td><td>35%</td></tr>
     <tr><td>Project (see separate breakdown)</td><td>35%</td></tr>
-    <tr><td>4 Assignments (10% + 15% + 15% + 5%)</td><td>45%</td></tr>
+    <tr><td>Assignments (likely 10% + 10% + 10%)</td><td>30%</td></tr>
+    <tr><td>Partipication</td><td>5%</td></tr>
     <tr><th><b>Total</b></th><th><b>100%</b></th></tr>
   </tbody>
 </table>
 
-Good participation on the Slack forum and in student peer evaluations may be counted up to 5% bonus (i.e., no possibility of deduction) to your final mark for the course.
-
-Lecture attendance is not mandatory. However, participation on the Slack discussion group is very helpful for your
-teaching staff too. Without it, we have very little idea whether you
-understand the material that we’ve presented or whether it’s too
-difficult or trivial. Giving feedback in the form of questions,
-discussion provides us with a better idea of what topics you enjoy and
-which you are not too keen on.
+Lecture attendance is mandatory and participation is part of your overall mark.  The participation grade will be marked as a combination of your tutorial participation (as determined by your tutorial group leader), your in-lecture participation, and your participation in class surveys (e.g., midterm survey).
 
 ## Academic Honesty Policy
 
@@ -39,11 +33,11 @@ rules and follow them strictly.
 
 Collaboration is a very good thing. Students are encouraged to work
 together and to teach each other. On the other hand, cheating is
-considered a very serious offense. Please don’t do it! Concern about
+considered a very serious offence. Please don’t do it! Concern about
 cheating creates an unpleasant environment for everyone. You will be
 automatically reported to the vice-dean of academic affairs if you are
 caught, no exceptions will be made for any infractions no matter how
-slight the offense.
+slight the offence.
 
 So how do you draw the line between collaboration and cheating? Here’s
 a reasonable set of ground-rules. Failure to understand and follow
@@ -51,7 +45,7 @@ these rules will constitute cheating, and will be dealt with as per
 University guidelines. We will be enforcing the policy vigorously and
 strictly.
 
-You should already be familiar with the University’s honor code. If
+You should already be familiar with the University’s honour code. If
 you haven’t yet, read it now.
 
 **The Pokémon Go Rule**: This rule says that you are free to meet with
