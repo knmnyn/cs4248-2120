@@ -123,7 +123,13 @@ Translation:
   <BR/>
 <A HREF="mailto:xieyuxi@u.nus.edu">xieyuxi@u.nus.edu</A><BR/>
 </div>
-
+  
+<div class="tutor__profile">
+  <img src="images/fuzhao.png"/><BR/>
+  <strong>XUE Fuzhao</strong>
+  <BR/>
+<A HREF="mailto:f.xue@u.nus.edu">f.xue@u.nus.edu</A><BR/>
+</div>
 </div>
 
 ### Undergraduate Teaching Assistants
