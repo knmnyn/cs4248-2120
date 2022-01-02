@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "CS4248 Natural Language Processing"
   avatar           : "grant-mccurdy-150.jpg"
-  bio              : "Our undergraduate machine learning course at the National University of Singapore's School of Computing"
+  bio              : "Our undergraduate natural language processing course at the National University of Singapore's School of Computing"
   location         : "NUS, Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
