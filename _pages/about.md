@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### NUS SoC, 2021/2022, Semester II, Time and Venue: L1: Fridays, 09:00–12:00 @ LT19 (hybrid). L2: Mondays, 18:30–21:30 (online only).  Sessions will be recorded where our technology behaves appropriately and shared on LumiNUS.
+#### NUS SoC, 2021/2022, Semester II, Time and Venue: L1: Fridays, 09:00–12:00 @ LT15 (hybrid). L2: Mondays, 18:30–21:30 (online only).  Sessions will be recorded where our technology behaves appropriately and shared on LumiNUS.
 
 <!--
 <P>&nbsp;
@@ -18,6 +18,8 @@ redirect_from:
 <P>&nbsp;
 </P>
 -->   
+
+_Last updated: 3 Jan 2022 (corrected L1 venue from LT19 to LT15)_
 
 This module deals with computer processing of human languages, including the use of neural networks and deep learning in natural language processing. The topics covered include: regular expressions, words and edit distance, n-grams, part-of-speech tagging, feed-forward neural networks, neural network training, word embedding, convolutional neural networks, recurrent neural networks, sequence-to-sequence models with attention, transformers, context-free grammars, syntactic parsing, semantics, and discourse.
 
@@ -183,9 +185,9 @@ See below answers to similar questions.  Generally the answer is no, but we welc
 
    If you'd like to audit, please send a mail to cs4248@comp.nus.edu.sg or a DM to @Min with your name and NUS LumiNUS-registered email address.
 
-1. _The course is stated as having a physical class for the L1 section at Lecture Theatre 19.  Is that correct?_
+1. _The course is stated as having a physical class for the L1 section at Lecture Theatre 15.  Is that correct?_
 
-   Yes.  Lecture will be on Fridays physically at LT19.  LT19 has a physical safe distancing limit of 50 students, so the first 50 students are welcomed at the LT and we will implement the NUS Classroom Attendance System to ensure that those who wish to attend can.  If coming to the class, please make it to the venue by 8:55 so that class can start on-time.
+   Yes.  Lecture will be on Fridays physically at LT15.  LT15 has a physical safe distancing limit of 50 students, so the first 50 students are welcomed at the LT and we will implement the NUS Classroom Attendance System to ensure that those who wish to attend can.  If coming to the class, please make it to the venue by 8:55 so that class can start on-time.
 
    A fixed Zoom session e-learning option will be given out students to attend class if not attending physically (see first QA item).
 
