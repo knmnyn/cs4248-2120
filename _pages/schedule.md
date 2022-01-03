@@ -7,7 +7,7 @@ author_profile: false
 
 Last updated: 14 Apr 2021 to fix the poster and presentation deadlines.
 
-Note that our class will be in the physical venue of LT19.  Recordings will take place where possible by Zoom and are available via LumiNUS.
+Note that the L1 class will be simulcasted from the physical venue of LT15.  Our L2 section will be held on Zoom conferencing only.  Recordings will take place where possible by Zoom and will be made available via LumiNUS.
 
 Note in the Readings column:
 * (SLP2) Dan Jurafsky and James Martin, <A href="https://www.cs.colorado.edu/~martin/SLP/">Speech and Language Processing</a>, 2nd edition. _We are only using this previous edition for the first chapter, since it is not finished in the 3e draft._
