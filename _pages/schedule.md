@@ -174,7 +174,7 @@ Note in the Readings column:
   </th>
 </tr>
 <tr>
-  <th colspan="2'"><b>Exam Week 2</b>
+  <th colspan="2"><b>Exam Week 2</b>
   </th>
   <th>
   · Final Examination (35%; Fri, 6 May 14:30–16:30 SGT).
