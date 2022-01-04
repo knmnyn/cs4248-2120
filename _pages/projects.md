@@ -8,48 +8,16 @@ author_profile: false
 _Credits: Much of the architecture for this course project comes from
 Bryan Low (NUS) and Thorsten Joachims (Cornell)_
 
-_Warning_ ⚠️: this section of the website is still undergoing revision for this semester.  Last updated 12 Jan 2021. ⚠️
+_Warning_ ⚠️: this section of the website is still undergoing revision for this semester.  Last updated 4 Jan 2022. ⚠️
 
 A key part of the mastery of any skill is practicing it,
 outside of the formal algorithmic basis for the
-topics.  The **student projects** form an integral part of the
-assessment.  Student teams should have 4 members and will be
-partially self-assembled (into teams of 1 or 2) and partially assembled by the teaching staff.  
-There are two kinds of projects that
-can be done: _Self-Defined Projects_ or _Staff-Defined Projects_. Choose only one of the two.
+topics.  The **student projects** form an integral part of the assessment.  Student groups should have 4 to 5 group members and will be
+partially self-assembled (into groups of size 1 or 2) and then assembled by the teaching staff into final groups with project preferences and expertise distribution.    
 
-### Self-Defined Projects
+Due to the high demand for this course, we have had to make concessions in the scope and variability of the our project component.  The staff will propose a set of suitable datasets for students groups to work with.  
 
-The final (mini-)project is intended to be a limited investigation in an area
-of machine learning of your choice. The purpose of the project is to
-enable you to study an area of your interest in greater detail in a
-practical way. The project can take on many forms, including but not
-limited to:
-
-* Projects that explore the application of natural language processing ideas to an interesting “real-world” problem.
-* Projects that involve a theoretical or empirical study of aspects of a learning method or model.
-* Projects that do an experimental, comparative study of various machine learning methods.
-* Projects that extend or synergise with an existing project (could be from a member of your group), such as a honors year project. 
-<em>Caution: this type of project may lead to unequal contribution, due to members’ prior expertise.</em>
-
-Doing such a project gives you more flexibility and allows you work on
-something of your liking. However at the same time, this may
-potentially require some additional effort (depending on your problem)
-such as data collection or coming up with suitable baselines, and/or
-explicitly declaring what is being extended or novel for the scope
-proposed for the class.  The teaching staff will take these factors
-into account when grading.
-
-### Staff-Defined Projects
-
-The staff may also propose projects suitable for students to try.  These are projects that have a dataset that provide a dataset and a clear-cut problem (classification, ranking) that you can attempt.  These will be available closer to the start of the project timing.
-
-Note that performance on the different metrics is not the critical
-factor in your grade on the project. While doing well on the
-competition helps, we primarily evaluate with respect to the
-(interesting) ideas your team employs to solve the task.  While the
-data is easier to obtain for such a project, there is less flexibility
-and more emphasis on coming up with interesting methods.
+Note that performance on the different macroscopic metrics is not the critical factor in your grade on the project. We primarily evaluate with respect to the (interesting) ideas your team employs to solve the task.  
 
 ## Project Structure
 
