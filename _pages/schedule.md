@@ -80,9 +80,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week Recess</b><br />
-  </td>
-  <td>
+  <td colspan="2"><b>Week Recess</b><br />
   </td>
   <td><!-- · Assignment 2 due (15%; Thu, 25 Feb 23:59 SGT). -->
   </td>
@@ -154,22 +152,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <th><b>Reading Week</b>
-  </th>
-  <th>
-  </th>
-  <th>
-<!--
-  · Assignment 4 due (5%; Thu, 22 Apr 23:59 SGT).
-    <br/>· Project Report due (14%, Fri, 23 Apr 23:59 SGT).
-    <br/>· Peer Reviews of Project Posters and Presentations due (Thu, 22 Apr 23:59 SGT).
--->
-  </th>
-</tr>
-<tr>
-  <th><b>Exam Week 1</b>
-  </th>
-  <th>
+  <th colspan="2"><b>Reading Week</b>
   </th>
   <th>
 <!--
@@ -180,9 +163,18 @@ Note in the Readings column:
   </th>
 </tr>
 <tr>
-  <th><b>Exam Week 2</b>
+  <th colspan="2"><b>Exam Week 1</b>
   </th>
   <th>
+<!--
+  · Assignment 4 due (5%; Thu, 22 Apr 23:59 SGT).
+    <br/>· Project Report due (14%, Fri, 23 Apr 23:59 SGT).
+    <br/>· Peer Reviews of Project Posters and Presentations due (Thu, 22 Apr 23:59 SGT).
+-->
+  </th>
+</tr>
+<tr>
+  <th colspan="2'"><b>Exam Week 2</b>
   </th>
   <th>
   · Final Examination (35%; Fri, 6 May 14:30–16:30 SGT).
