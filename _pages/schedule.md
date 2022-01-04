@@ -70,17 +70,21 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 06</b><br />19 Feb
+  <td><b>Week 06</b><br />L1: 18 Feb / L2: 28 Feb
   </td>
-  <td><b>Embeddings</b> and <b>Midterm</b> (Fri, 19 Feb 9:00-10:00 SGT)
+  <td><b>Embeddings</b> and <b>Ethics</b>
   </td>
-  <td>· Midterm (20%)
+  <td>
+    · SLP3, Ch 26.
+    <br/>· E, Ch 19.
+  <!-- · Midterm (20%)
     <BR/>· SLP3, Ch 6.
     <BR/>· E, Ch 14.
+  -->
   </td>
 </tr>
 <tr>
-  <td><b>Week Recess</b><br />26 Feb
+  <td><b>Week Recess</b><br />
   </td>
   <td>
   </td>
@@ -88,7 +92,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 07</b><br />5 Mar
+  <td><b>Week 07</b><br />L1: 4 Mar / L2: 7 Mar
   </td>
   <td><b>Sequences</b>
     <br/>· SLP3, Ch 8.
@@ -99,7 +103,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 08</b><br />12 Mar
+  <td><b>Week 08</b><br />L1: 11 Mar / L2: 14 Mar
   </td>
   <td><b>Encoder–Decoder</b>
     <br/>· SLP3, Ch 9.
@@ -108,7 +112,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 09</b><br />19 Mar
+  <td><b>Week 09</b><br />L1: 18 Mar / L2: 21 Mar
   </td>
   <td><b>Trees</b>
     <br/>· SLP3, Chs 12, 13, 15.
@@ -119,7 +123,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 10</b><br />26 Mar
+  <td><b>Week 10</b><br />L1: 25 Mar / L2: 28 Mar
   </td>
   <td><b>Semantics</b>
   </td>
@@ -127,7 +131,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 11</b><br />2 Apr (Class to be recorded or rescheduled in light of Good Friday Holiday)
+  <td><b>Week 11</b><br />L1: 1 Apr / L2: 4 Apr
   </td>
   <td><b>Classification Applications</b>
     <br/>· SLP3, Ch 25.
@@ -136,7 +140,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 12</b><br />9 Apr
+  <td><b>Week 12</b><br />L1: 8 Apr / L2: 11 Apr
   </td>
   <td><b>Sequence Applications</b>
     <br/>· SLP3, Ch 25.
@@ -146,27 +150,48 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 13</b><br />16 Apr
+  <td><b>Week 13</b><br />
   </td>
-  <td><b>Ethics</b> and <b>Advanced Topics</b>
-    <br/>· SLP3, Ch 26.
-    <br/>· E, Ch 19.
+  <td><i>No lecture due to lecture synchronization</i>
   </td>
   <td>· Assignment 4 out.
-    <br/>· Project Poster (8%; Fri, 16 Apr 7:59 SGT).
-    <br/>· Project Presentation (8%; Fri, 16 Apr 7:59 SGT).
   </td>
 </tr>
 <tr>
   <th><b>Reading Week</b>
   </th>
-  <th>100% Continuous Assessment (due to COVID-19).  No final exam<sup>1</sup>.
+  <th>
   </th>
-  <th>· Assignment 4 due (5%; Thu, 22 Apr 23:59 SGT).
+  <th>
+<!--
+  · Assignment 4 due (5%; Thu, 22 Apr 23:59 SGT).
     <br/>· Project Report due (14%, Fri, 23 Apr 23:59 SGT).
     <br/>· Peer Reviews of Project Posters and Presentations due (Thu, 22 Apr 23:59 SGT).
+-->
+</th>
+</tr>
+<tr>
+  <th><b>Exam Week 1</b>
+  </th>
+  <th>
+  </th>
+  <th>
+<!--
+  · Assignment 4 due (5%; Thu, 22 Apr 23:59 SGT).
+    <br/>· Project Report due (14%, Fri, 23 Apr 23:59 SGT).
+    <br/>· Peer Reviews of Project Posters and Presentations due (Thu, 22 Apr 23:59 SGT).
+-->
+</th>
+</tr>
+<tr>
+  <th><b>Exam Week 2</b>
+  </th>
+  <th>
+  </th>
+  <th>
+  · Final Examination (35%; Fri, 6 May 14:30–16:30 SGT).
   </th>
 </tr>
 </tbody></table>
 
-<p><sup>1</sup>Exam considerations were decided at the beginning of April 2020 for the entire academic year.  At that time, we thought it was safer not to require a physical final exam venue.  Fortunately, we can have class in place, but the exam considerations needed to be moved to online continuous assessment only at that time.  We regret any inconvenience.
+<p>Yes we know the registrar shafted us with a very late exam.  Sorry, there's nothing we can do.  Hopefully that means you will have nothing left to study for and have no problems concentrating for the final.</p>
