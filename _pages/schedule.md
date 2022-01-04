@@ -5,20 +5,20 @@ permalink: /schedule/
 author_profile: false
 ---
 
-Last updated: 14 Apr 2021 to fix the poster and presentation deadlines.
+Last updated: 4 Jan 2022 to resync the 2120 semester schedule to this calendar.
 
 Note that the L1 class will be simulcasted from the physical venue of LT15.  Our L2 section will be held on Zoom conferencing only.  Recordings will take place where possible by Zoom and will be made available via LumiNUS.
 
 Note in the Readings column:
 * (SLP2) Dan Jurafsky and James Martin, <A href="https://www.cs.colorado.edu/~martin/SLP/">Speech and Language Processing</a>, 2nd edition. _We are only using this previous edition for the first chapter, since it is not finished in the 3e draft._
-* (SLP3) Dan Jurafsky and James Martin, <A href="https://web.stanford.edu/~jurafsky/slp3/">Speech and Language Processing</a>, 3rd edition
+* (SLP3) Dan Jurafsky and James Martin, <A href="https://web.stanford.edu/~jurafsky/slp3/">Speech and Language Processing</a>, 3rd edition (recently updated on 29 Dec 2021)
 * (E) Jacob Eisenstein, <a href="https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf">Natural Language Processing</a> (2018)
 
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th>Description and Optional Readings</th><th>Deadlines and Mark Weightage</th></tr></thead>
 <tbody>
 <tr>
-  <td><b>NUS Week 01</b><br />Fri, 15 Jan
+  <td><b>NUS Week 01</b><br />L1: 14 Jan / L2: 17 Jan
   </td>
   <td><b>Administrivia</b> and <b>Introduction</b>
     <br/>· SLP2, <A HREF="https://www.cs.colorado.edu/~martin/SLP/Updates/1.pdf">Ch 1</A>.
@@ -27,7 +27,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 02</b><br />22 Jan
+  <td><b>Week 02</b><br />L1: 21 Jan / L2: 24 Jan
   </td>
   <td>
     <b>Words</b>
@@ -37,7 +37,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 03</b><br />29 Jan
+  <td><b>Week 03</b><br />L1: 28 Jan / L2: 31 Jan
   </td>
   <td>
     <b>Language Models</b>
@@ -47,20 +47,21 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 04</b><br />5 Feb
+  <td><b>Week 04</b><br />L1: 4 Feb / L2: 7 Feb
   </td>
   <td><b>Text Classification</b>
     <br/>· SLP3, Ch 4.
     <BR/>· E, Chs 2–4.  
   </td>
   <td>
-    <BR/>· Assignment 1 due (10% of Final Marks; Due: Thu, 4 Feb 23:59 SGT).
+<!--    <BR/>· Assignment 1 due (10% of Final Marks; Due: Thu, 4 Feb 23:59 SGT).
     <BR/>· Assignment 2 out.
     <BR/>· Students to fill out team formation form.
+-->
   </td>
 </tr>
 <tr>
-  <td><b>Week 05</b><br />12 Feb (Class to be recorded or rescheduled in light of Lunar / CNY Holiday)
+  <td><b>Week 05</b><br />L1: 11 Feb / L2: 14 Feb
   </td>
   <td><b>Connectionist Machine Learning</b>
     <br/>· SLP3, Ch 5.
