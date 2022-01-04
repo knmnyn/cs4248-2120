@@ -33,7 +33,7 @@ Note in the Readings column:
     <b>Words</b>
     <BR/>· SLP3, Ch 2.
   </td>
-  <td>· Assignment 1 out.
+  <td><!-- · Assignment 1 out. -->
   </td>
 </tr>
 <tr>
@@ -73,14 +73,10 @@ Note in the Readings column:
   <td><b>Week 06</b><br />L1: 18 Feb / L2: 28 Feb
   </td>
   <td><b>Embeddings</b> and <b>Ethics</b>
+  <br/>· SLP3, Ch 26.
+  <br/>· E, Ch 19.
   </td>
   <td>
-    · SLP3, Ch 26.
-    <br/>· E, Ch 19.
-  <!-- · Midterm (20%)
-    <BR/>· SLP3, Ch 6.
-    <BR/>· E, Ch 14.
-  -->
   </td>
 </tr>
 <tr>
@@ -88,7 +84,7 @@ Note in the Readings column:
   </td>
   <td>
   </td>
-  <td>· Assignment 2 due (15%; Thu, 25 Feb 23:59 SGT).
+  <td><!-- · Assignment 2 due (15%; Thu, 25 Feb 23:59 SGT). -->
   </td>
 </tr>
 <tr>
@@ -98,8 +94,8 @@ Note in the Readings column:
     <br/>· SLP3, Ch 8.
     <br/>· E, Ch 7.
   </td>
-  <td>· Assignment 3 out.
-    <br/>· Project Proposal (5%; Thu, 4 Mar 23:59 SGT).
+  <td><!-- · Assignment 3 out.
+    <br/>· Project Proposal (5%; Thu, 4 Mar 23:59 SGT). -->
   </td>
 </tr>
 <tr>
@@ -118,8 +114,8 @@ Note in the Readings column:
     <br/>· SLP3, Chs 12, 13, 15.
     <br/>· E, Chs 9, 10.
   </td>
-    <td>· Peer Review of Project Proposals due (Tue, 16 Mar 23:59 SGT).
-    <br/>· Assignment 3 due (15%; Thu, 18 Mar 23:59 SGT)
+    <td><!-- · Peer Review of Project Proposals due (Tue, 16 Mar 23:59 SGT).
+    <br/>· Assignment 3 due (15%; Thu, 18 Mar 23:59 SGT)-->
   </td>
 </tr>
 <tr>
@@ -154,7 +150,7 @@ Note in the Readings column:
   </td>
   <td><i>No lecture due to lecture synchronization</i>
   </td>
-  <td>· Assignment 4 out.
+  <td>
   </td>
 </tr>
 <tr>
@@ -168,7 +164,7 @@ Note in the Readings column:
     <br/>· Project Report due (14%, Fri, 23 Apr 23:59 SGT).
     <br/>· Peer Reviews of Project Posters and Presentations due (Thu, 22 Apr 23:59 SGT).
 -->
-</th>
+  </th>
 </tr>
 <tr>
   <th><b>Exam Week 1</b>
@@ -181,7 +177,7 @@ Note in the Readings column:
     <br/>· Project Report due (14%, Fri, 23 Apr 23:59 SGT).
     <br/>· Peer Reviews of Project Posters and Presentations due (Thu, 22 Apr 23:59 SGT).
 -->
-</th>
+  </th>
 </tr>
 <tr>
   <th><b>Exam Week 2</b>
