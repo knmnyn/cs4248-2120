@@ -14,7 +14,7 @@ The grading for this class will comprise of the following continuous assessment 
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
   <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
   <tbody>
-    <tr><td>Final Assessment</td><td>35%</td></tr>
+    <tr><td>Final Assessment</td><td>30%</td></tr>
     <tr><td>Project (see separate breakdown)</td><td>35%</td></tr>
     <tr><td>Assignments (likely 10% + 10% + 10%)</td><td>30%</td></tr>
     <tr><td>Partipication</td><td>5%</td></tr>

@@ -44,6 +44,7 @@ Note in the Readings column:
     <BR/>· SLP3, Ch 3.
   </td>
   <td>
+    · Self form mini-groups of size 1–3 students for the class project.
   </td>
 </tr>
 <tr>
@@ -66,7 +67,7 @@ Note in the Readings column:
   <td><b>Connectionist Machine Learning</b>
     <br/>· SLP3, Ch 5.
   </td>
-  <td>· Teams finalised by CS4248 staff.
+  <td>· Final project groups assembled by the CS4248 staff.
   </td>
 </tr>
 <tr>
@@ -150,6 +151,10 @@ Note in the Readings column:
   </td>
   <td>
   </td>
+</tr>
+<tr>
+  <th colspan="3"><b>Reading Week</b>
+  </th>
 </tr>
 </tbody></table>
 
