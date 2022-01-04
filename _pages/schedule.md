@@ -153,16 +153,16 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <th colspan="3"><b>Reading Week</b>
-  </th>
+  <td colspan="3"><b>Reading Week</b>
+  </td>
 </tr>
 <tr>
-  <th colspan="3"><b>Exam Week 1</b>
-  </th>
+  <td colspan="3"><b>Exam Week 1</b>
+  </td>
 </tr>
 <tr>
-  <th colspan="2"><b>Exam Week 2</b>
-  </th>
+  <td colspan="2"><b>Exam Week 2</b>
+  </td>
   <td>
     · Final Examination (30%; Fri, 6 May 14:30–16:30 SGT).
   </td>
