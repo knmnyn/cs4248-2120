@@ -156,6 +156,17 @@ Note in the Readings column:
   <th colspan="3"><b>Reading Week</b>
   </th>
 </tr>
+<tr>
+  <th colspan="3"><b>Exam Week 1</b>
+  </th>
+</tr>
+<tr>
+  <th colspan="2"><b>Exam Week 2</b>
+  </th>
+  <td>
+    · Final Examination (35%; Fri, 6 May 14:30–16:30 SGT).
+  </td>
+</tr>
 </tbody></table>
 
 <p>Yes, we know the registrar shafted us with a very late exam.  Sorry, there's nothing we can do.  Hopefully that means you will have nothing left to study for and have no problems concentrating for the final.</p>
