@@ -24,24 +24,18 @@ Note that performance on the different macroscopic metrics is not the critical f
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
 <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
 <tbody>
-<tr><td>Proposal (Peer Graded)</td><td>5%</td></tr>
-<tr><td>Project Consultations</td><td>N/A</td></tr>
-<tr><td>Project Poster and Presentation (Peer Graded)</td><td>8 + 8 = 16%</td></tr>
-<tr><td>Final Project Report</td><td>14%</td></tr>
+<tr><td>Interim Project Update</td><td>(ungraded)</td></tr>
+<tr><td>Final Project Report</td><td>35%</td></tr>
 <tr><th><b>Total</b></th><th><b>35%</b></th></tr>
 </tbody>
 </table>
 <p><br /></p>
 
-You will need to form teams and propose a topic to for your project in
-a formal project proposal.  The staff and your peers will give you
+The staff and your peers will give you
 feedback.  After the project proposal, you will be assigned a contact
-TA that you can use as a resource for questions and advice.
+TA as **project mentor** that you should use as a resource for questions and advice.  The TA will correspond with you and attempt to check in with you on a weekly basis.  _It is your responsibility to ensure that your group meets with your project mentor, not your mentor's responsibility to chase you._
 
-In Weeks 10-11, the staff will meet with all teams for a
-mandatory graded consultation.  Your team will need to prepare a short
-presentation deck to present to the staff about the progress of your
-project.
+In Weeks 10–12, an instructor will meet with each teams for a mandatory but ungraded consultation session to offer final advise.  Your team will need to prepare a short presentation deck to present to the staff about the progress of your project.
 
 Detailed grading rubrics for all phases of the project are provided as
 part of the project reporting templates provided in class.
@@ -54,13 +48,3 @@ The general grading metrics are as follows:
 * Clarity (how clearly are goals and achievements presented)
 * Scope/Size (in proportion to size of group)
 * Significance (are the questions you are asking interesting)
-
-<!-- As with supervised machine learning, sometimes it’s easier to learn from
-data than from rubrics.  You can get a look at past projects by
-looking the previous iterations of
-CS3244 projects as housed in SoC's STePS platform, from either
-[Semester I, AY 19/20](https://isteps.comp.nus.edu.sg/event/15th-steps/module/CS3244) or
-[Semester I, AY 18/19](https://isteps.comp.nus.edu.sg/event/13th-steps/module/CS3244).
-
-We also would like to thank [AWS Educate](https://aws.amazon.com/education/awseducate/students/) for their continued sponsorship of our course by allowing our course administrators to distribute 10,000 USD worth of AWS credits to project teams that declare that they will be using AWS platform for their course project work.
--->

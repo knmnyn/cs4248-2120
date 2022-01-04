@@ -153,4 +153,4 @@ Note in the Readings column:
 </tr>
 </tbody></table>
 
-<p>Yes we know the registrar shafted us with a very late exam.  Sorry, there's nothing we can do.  Hopefully that means you will have nothing left to study for and have no problems concentrating for the final.</p>
+<p>Yes, we know the registrar shafted us with a very late exam.  Sorry, there's nothing we can do.  Hopefully that means you will have nothing left to study for and have no problems concentrating for the final.</p>
