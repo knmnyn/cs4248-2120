@@ -144,7 +144,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 13</b><br />
+  <td><b>Week 13</b>
   </td>
   <td><i>No lecture due to lecture synchronization</i>
   </td>
@@ -152,33 +152,31 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <th colspan="2"><b>Reading Week</b>
+  <th colspan="3"><b>Reading Week</b>
   </th>
-  <th>
+  <td>
 <!--
   · Assignment 4 due (5%; Thu, 22 Apr 23:59 SGT).
     <br/>· Project Report due (14%, Fri, 23 Apr 23:59 SGT).
     <br/>· Peer Reviews of Project Posters and Presentations due (Thu, 22 Apr 23:59 SGT).
 -->
-  </th>
+  </td>
 </tr>
 <tr>
-  <th colspan="2"><b>Exam Week 1</b>
+  <th colspan="3"><b>Exam Week 1</b>
   </th>
-  <th>
 <!--
   · Assignment 4 due (5%; Thu, 22 Apr 23:59 SGT).
     <br/>· Project Report due (14%, Fri, 23 Apr 23:59 SGT).
     <br/>· Peer Reviews of Project Posters and Presentations due (Thu, 22 Apr 23:59 SGT).
 -->
-  </th>
 </tr>
 <tr>
   <th colspan="2"><b>Exam Week 2</b>
   </th>
-  <th>
+  <td>
   · Final Examination (35%; Fri, 6 May 14:30–16:30 SGT).
-  </th>
+  </td>
 </tr>
 </tbody></table>
 
