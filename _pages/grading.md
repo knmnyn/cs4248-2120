@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-⚠️ _This page is preliminary.  Expect it to change. Last updated 1 Jan 2022._ ⚠️
+⚠️ _This page is preliminary.  Expect it to change. Last updated 4 Jan 2022, to fix final assessment percentage marks._ ⚠️
 
 The grading for this class will comprise of the following continuous assessment milestones:
 

@@ -8,7 +8,7 @@ author_profile: false
 _Credits: Much of the architecture for this course project comes from
 Bryan Low (NUS) and Thorsten Joachims (Cornell)_
 
-_Warning_ ⚠️: this section of the website is still undergoing revision for this semester.  Last updated 4 Jan 2022. ⚠️
+_Warning_ ⚠️: this section of the website is still undergoing revision for this semester.  Last updated 4 Jan 2022, to sync with current decisions. ⚠️
 
 A key part of the mastery of any skill is practicing it,
 outside of the formal algorithmic basis for the
