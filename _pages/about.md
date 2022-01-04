@@ -19,7 +19,7 @@ redirect_from:
 </P>
 -->   
 
-_Last updated: 3 Jan 2022 (corrected L1 venue from LT19 to LT15)_
+_Last updated: 4 Jan 2022 (synced answers from LumiNUS)_
 
 This module deals with computer processing of human languages, including the use of neural networks and deep learning in natural language processing. The topics covered include: regular expressions, words and edit distance, n-grams, part-of-speech tagging, feed-forward neural networks, neural network training, word embedding, convolutional neural networks, recurrent neural networks, sequence-to-sequence models with attention, transformers, context-free grammars, syntactic parsing, semantics, and discourse.
 
@@ -101,8 +101,6 @@ Translation:
 
 <!-- Copy above tile from instructor -->
 
-### Graduate Teaching Assistants
-
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
 <div class="tutor__profile">
@@ -120,12 +118,19 @@ Translation:
 </div>
 
 <div class="tutor__profile">
+  <img src="images/jiaying.png"/><BR/>
+  <strong>WU Jiaying</strong>
+  <BR/>
+<A HREF="mailto:jiayingwu@u.nus.edu">jiayingwu@u.nus.edu</A><BR/>
+</div>
+
+<div class="tutor__profile">
   <img src="images/yuxi.png"/><BR/>
   <strong>XIE Yuxi</strong>
   <BR/>
 <A HREF="mailto:xieyuxi@u.nus.edu">xieyuxi@u.nus.edu</A><BR/>
 </div>
-  
+
 <div class="tutor__profile">
   <img src="images/fuzhao.png"/><BR/>
   <strong>XUE Fuzhao</strong>
@@ -133,15 +138,7 @@ Translation:
 <A HREF="mailto:f.xue@u.nus.edu">f.xue@u.nus.edu</A><BR/>
 </div>
 
-<div class="tutor__profile">
-  <img src="images/jiaying.png"/><BR/>
-  <strong>WU Jiaying</strong>
-  <BR/>
-<A HREF="mailto:jiayingwu@u.nus.edu">jiayingwu@u.nus.edu</A><BR/>
 </div>
-</div>
-
-### Undergraduate Teaching Assistants
 
 <!--
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
@@ -161,19 +158,24 @@ Translation:
 This course's administration is currently in flux due to higher demand for the subject.  We have opened two sections of the course with different learning modes.  L1 taught by Kan Min-Yen on Friday AMs will feature hybrid lecture (lecture both via synchronous Zoom online and physical lecture at LT15); L2 taught by Christian von der Weth on Monday evenings will be online lecture only.
 
 1. _Will the L1 and L2 sections of the course work the same?_
-Generally, yes.  We plan to use the similar assessments.  However, due to the timings being different, some details are likely to be different.   For examples since L1 is offered on Friday and L2 on Monday (at opposite ends of the week), the topics may differ.
+Generally, yes.  We will be offering synchronized lectures such that the L1 section on Friday starts the topic and the subsequent L2 section on Monday covers the same topic.  This means that L2 will have no first lecture (no class on 10 Jan) and L1 will have no lecture on the last Friday (no class on 15 Apr; Good Friday holiday anyways).  
 
 1. _Does the L1 section thus compel students to come in for physical lecture?_
 No it does not.  We believe there are certain students that learn better in a physical, less distracting environment.  If you are one of them and enrolled for L1, please join us in the physical environment.  Historically, we find that engaged learners tend to fare better with the course materials and with their marks when they are able to interact with our instruction staff, and this is easier to facilitate in a physical setting.
 
 1. _How about tutorials?_
-Tutorials will be offered every other week after Week 03.  The teaching mode for tutorials has yet to be decided.  We believe the LumiNUS timetable currently does not accurately reflect the slots for tutorials and are working to fix this issue.
+Tutorials will be offered every other week after Week 03.  The teaching mode for tutorials has yet to be decided.  We have added evening tutorials (now reflected in LumiNUS timetable) to help cope with the load.  Some tutorials are e-learning format only, others may be hybrid or physical tutorials in SR2 (COM1 02-04) only.
 
 1. _I'm doing an ATAP, SIP, FYP concerning NLP.  Can I get an exception to enter the course?_
-We are still working on policy concerning this matter.  Check back later.
+Generally no.  Our course (even with the 2x increase in instructors) is still heavily oversubscribed.  Therefore, we suggest that you come back to campus to take the course.
+
+If you absolutely need to get access to the course, make an official appeal and if it can be considered, we'll hear about it from ModReg directly.  You can check with us but we may not have the capacity to answer you directly.
 
 1. _Can you add me as a guest student and if so, what are my responsibilities?_
-We do accept guest student enrollment in this course.  You may write to either lecturer to gain access to the course notes and lecture webcasts.  However, we have a quota cap for a reason, to best serve the fully enrolled students.  Thus, if our teaching staff lack bandwidth, we may not be able to answer your questions and concerns.  Please do understand.
+We do accept **guest** student enrolment in this course. You may write to either lecturer to gain access to the course notes and lecture webcasts. We do not accept auditing students (see NUS Registrar for the formal difference; but basically it appears on your transcript with an 'Audit' grade), as per NUS SoC policy. However, we have a quota cap for a reason, and that is to best serve the fully enrolled students.  Thus, if our teaching staff lack bandwidth, we may not be able to answer your questions and concerns.  Please do understand.
+
+1. _I'm having problems enrolling in a tutorial.  How to get help?_
+Each module has a Tutorial Registration Coordinator (TRC) assigned to them.  Our TRC for CS4248 is JIANG Liu.  Please contact Jiang for help in registering for tutorial if you cannot secure a slot.  Our instructors will not be able to help you, as tutorial registration is centrally controlled.
 
 1. _Will the module be webcasted (recorded or broadcasted live)?_
    Yes, barring technical difficulties, we plan to record the course lectures and make them available on LumiNUS.  That is, we will make our best effort to do this, but do not guarantee quality of service for webcasted or remote learning.  We will attempt to make the lectures available on simulcast on Zoom, links to be available to course students only (you will need to be authenticated to your NUS-linked Zoom account to connect to the lectures).
