@@ -138,6 +138,13 @@ Translation:
 <A HREF="mailto:f.xue@u.nus.edu">f.xue@u.nus.edu</A><BR/>
 </div>
 
+<div class="tutor__profile">
+  <img src="images/sakshi.png"/><BR/>
+  <strong>SAKSHI Pradyumn</strong>
+  <BR/>
+ <A HREF="mailto:e0313722@u.nus.edu">e0313722@u.nus.edu</A><BR/>
+</div>
+
 </div>
 
 <!--
