@@ -8,12 +8,12 @@ author_profile: false
 _Credits: Much of the architecture for this course project comes from
 Bryan Low (NUS) and Thorsten Joachims (Cornell)_
 
-_Warning_ ⚠️: this section of the website is still undergoing revision for this semester.  Last updated 4 Jan 2022, to sync with current decisions. ⚠️
+_Warning_ ⚠️: this section of the website is still undergoing revision for this semester.  Last updated 8 Jan 2022, to sync with current weightage. ⚠️
 
 A key part of the mastery of any skill is practicing it,
 outside of the formal algorithmic basis for the
 topics.  The **student projects** form an integral part of the assessment.  Student groups should have 4 to 5 group members and will be
-partially self-assembled (into groups of size 1 or 2) and then assembled by the teaching staff into final groups with project preferences and expertise distribution.    
+partially self-assembled (into groups of size 1 to 3) and then assembled by the teaching staff into final groups with project preferences and expertise taken into account.    
 
 Due to the high demand for this course, we have had to make concessions in the scope and variability of the our project component.  The staff will propose a set of suitable datasets for students groups to work with.  
 
@@ -24,8 +24,8 @@ Note that performance on the different macroscopic metrics is not the critical f
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
 <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
 <tbody>
-<tr><td>Interim Project Update</td><td>(ungraded)</td></tr>
-<tr><td>Final Project Report</td><td>35%</td></tr>
+<tr><td>Interim Project Update</td><td>5%</td></tr>
+<tr><td>Final Project Report</td><td>30%</td></tr>
 <tr><th><b>Total</b></th><th><b>35%</b></th></tr>
 </tbody>
 </table>
