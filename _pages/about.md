@@ -140,7 +140,7 @@ Translation:
 
 <div class="tutor__profile">
   <img src="images/sakshi.png"/><BR/>
-  <strong>SAKSHI Pradyumn</strong>
+  <strong>Sakshi Pradyumn</strong>
   <BR/>
  <A HREF="mailto:e0313722@u.nus.edu">e0313722@u.nus.edu</A><BR/>
 </div>
