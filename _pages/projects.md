@@ -35,7 +35,7 @@ The staff and your peers will give you
 feedback.  After the project proposal, you will be assigned a contact
 TA as **project mentor** that you should use as a resource for questions and advice.  The TA will correspond with you and attempt to check in with you on a weekly basis.  _It is your responsibility to ensure that your group meets with your project mentor, not your mentor's responsibility to chase you._
 
-In Weeks 10–12, an instructor will meet with each teams for a mandatory but ungraded consultation session to offer final advise.  Your team will need to prepare a short presentation deck to present to the staff about the progress of your project.
+In Weeks 10–12, your group may decide to meet with an instructor for additional, ungraded consultation session to offer final advice.  Your team will need to prepare a short presentation deck to present to the staff about the progress of your project.
 
 Detailed grading rubrics for all phases of the project are provided as
 part of the project reporting templates provided in class.
