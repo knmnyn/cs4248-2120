@@ -19,7 +19,7 @@ redirect_from:
 </P>
 -->   
 
-_Last updated: 4 Jan 2022 (synced answers from LumiNUS)_
+_Last updated: 11 Jan 2022 (fixed L1 venue to i3 Aud)_
 
 This module deals with computer processing of human languages, including the use of neural networks and deep learning in natural language processing. The topics covered include: regular expressions, words and edit distance, n-grams, part-of-speech tagging, feed-forward neural networks, neural network training, word embedding, convolutional neural networks, recurrent neural networks, sequence-to-sequence models with attention, transformers, context-free grammars, syntactic parsing, semantics, and discourse.
 
@@ -194,7 +194,7 @@ See below answers to similar questions.  Generally the answer is no, but we welc
 
    If you'd like to audit, please send a mail to cs4248@comp.nus.edu.sg or a DM to @Min with your name and NUS LumiNUS-registered email address.
 
-1. _The course is stated as having a physical class for the L1 section at Lecture Theatre 15.  Is that correct?_
+1. _The course is stated as having a physical class for the L1 section.  Is that correct?_
 
    Yes.  Lecture will be on Fridays physically at <s>LT15</s> i3 Auditorium.  i3 Auditorium has a physical safe distancing limit of 50 students, so the first 50 students who take the respective poll are welcomed at the auditorium. We will implement the NUS Classroom Attendance System to ensure that those who wish to attend can.  If coming to the class, please make it to the venue by 8:55 so that class can start on-time.
 
@@ -212,4 +212,4 @@ See below answers to similar questions.  Generally the answer is no, but we welc
 
 1. _I need this course in order to graduate this coming semester.  Can you grant me this exception?_
 
-   Please ask your academic advisor to explain the situation to me.  We will see what we can do and perhaps help your academic advisor help plan future students' plans accordingly.
+   Please ask your academic advisor to explain the situation to us.  We will see what we can do and perhaps help your academic advisor help plan future students' plans accordingly.
