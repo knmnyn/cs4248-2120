@@ -5,9 +5,9 @@ permalink: /schedule/
 author_profile: false
 ---
 
-Last updated: 4 Jan 2022 to resync the 2120 semester schedule to this calendar.
+Last updated: 11 Jan 2022 to fix the first three weeks' calendar.
 
-Note that the L1 class will be simulcasted from the physical venue of LT15.  Our L2 section will be held on Zoom conferencing only.  Recordings will take place where possible by Zoom and will be made available via LumiNUS.
+Note that the L1 class will be simulcasted from the physical venue of i3 Auditorium.  Our L2 section will be held on Zoom conferencing only.  Recordings will take place where possible by Zoom and will be made available via LumiNUS.
 
 Note in the Readings column:
 * (SLP2) Dan Jurafsky and James Martin, <A href="https://www.cs.colorado.edu/~martin/SLP/">Speech and Language Processing</a>, 2nd edition. _We are only using this previous edition for the first chapter, since it is not finished in the 3e draft._
