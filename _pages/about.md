@@ -174,9 +174,7 @@ No it does not.  We believe there are certain students that learn better in a ph
 Tutorials will be offered every other week after Week 03.  The teaching mode for tutorials has yet to be decided.  We have added evening tutorials (now reflected in LumiNUS timetable) to help cope with the load.  Some tutorials are e-learning format only, others may be hybrid or physical tutorials in SR2 (COM1 02-04) only.
 
 1. _I'm doing an ATAP, SIP, FYP concerning NLP.  Can I get an exception to enter the course?_
-Generally no.  Our course (even with the 2x increase in instructors) is still heavily oversubscribed.  Therefore, we suggest that you come back to campus to take the course.
-
-If you absolutely need to get access to the course, make an official appeal and if it can be considered, we'll hear about it from ModReg directly.  You can check with us but we may not have the capacity to answer you directly.
+Generally no.  Our course (even with the 2x increase in instructors) is still heavily oversubscribed.  Therefore, we suggest that you come back to campus to take the course. If you absolutely need to get access to the course, make an official appeal and if it can be considered, we'll hear about it from ModReg directly.  You can check with us but we may not have the capacity to answer you directly.
 
 1. _Can you add me as a guest student and if so, what are my responsibilities?_
 We do accept **guest** student enrolment in this course. You may write to either lecturer to gain access to the course notes and lecture webcasts. We do not accept auditing students (see NUS Registrar for the formal difference; but basically it appears on your transcript with an 'Audit' grade), as per NUS SoC policy. However, we have a quota cap for a reason, and that is to best serve the fully enrolled students.  Thus, if our teaching staff lack bandwidth, we may not be able to answer your questions and concerns.  Please do understand.
