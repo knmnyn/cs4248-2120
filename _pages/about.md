@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### NUS SoC, 2021/2022, Semester II, Time and Venue: L1: Fridays, 09:00–12:00 @ LT15 (hybrid). L2: Mondays, 18:30–21:30 (online only).  Sessions will be recorded where our technology behaves appropriately and shared on LumiNUS.
+#### NUS SoC, 2021/2022, Semester II, Time and Venue: L1: Fridays, 09:00–12:00 @ i3 Aud (hybrid). L2: Mondays, 18:30–21:30 (online only).  Sessions will be recorded where our technology behaves appropriately and shared on LumiNUS.
 
 <!--
 <P>&nbsp;
@@ -162,7 +162,7 @@ Translation:
 ## Frequently Asked Questions
 
 1. _What is the format of this course?_
-This course's administration is currently in flux due to higher demand for the subject.  We have opened two sections of the course with different learning modes.  L1 taught by Kan Min-Yen on Friday AMs will feature hybrid lecture (lecture both via synchronous Zoom online and physical lecture at LT15); L2 taught by Christian von der Weth on Monday evenings will be online lecture only.
+This course's administration is currently in flux due to higher demand for the subject.  We have opened two sections of the course with different learning modes.  L1 taught by Kan Min-Yen on Friday AMs will feature hybrid lecture (lecture both via synchronous Zoom online and physical lecture at <s>LT15</s> i3 Auditorium); L2 taught by Christian von der Weth on Monday evenings will be online lecture only.
 
 1. _Will the L1 and L2 sections of the course work the same?_
 Generally, yes.  We will be offering synchronized lectures such that the L1 section on Friday starts the topic and the subsequent L2 section on Monday covers the same topic.  This means that L2 will have no first lecture (no class on 10 Jan) and L1 will have no lecture on the last Friday (no class on 15 Apr; Good Friday holiday anyways).  
@@ -196,7 +196,7 @@ See below answers to similar questions.  Generally the answer is no, but we welc
 
 1. _The course is stated as having a physical class for the L1 section at Lecture Theatre 15.  Is that correct?_
 
-   Yes.  Lecture will be on Fridays physically at LT15.  LT15 has a physical safe distancing limit of 50 students, so the first 50 students are welcomed at the LT and we will implement the NUS Classroom Attendance System to ensure that those who wish to attend can.  If coming to the class, please make it to the venue by 8:55 so that class can start on-time.
+   Yes.  Lecture will be on Fridays physically at <s>LT15</s> i3 Auditorium.  i3 Auditorium has a physical safe distancing limit of 50 students, so the first 50 students who take the respective poll are welcomed at the auditorium. We will implement the NUS Classroom Attendance System to ensure that those who wish to attend can.  If coming to the class, please make it to the venue by 8:55 so that class can start on-time.
 
    A fixed Zoom session e-learning option will be given out students to attend class if not attending physically (see first QA item).
 
