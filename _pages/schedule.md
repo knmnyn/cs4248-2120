@@ -18,7 +18,7 @@ Note in the Readings column:
 <thead class="thead-inverse"><tr><th>Date</th><th>Description and Optional Readings</th><th>Deadlines and Mark Weightage</th></tr></thead>
 <tbody>
 <tr>
-  <td><b>NUS Week 01</b><br />L1: 14 Jan / L2: 17 Jan
+  <td><b>NUS Week 01</b><br />L1: 14 Jan / L2: 10 Jan
   </td>
   <td><b>Administrivia</b> and <b>Introduction</b>
     <br/>· SLP2, <A HREF="https://www.cs.colorado.edu/~martin/SLP/Updates/1.pdf">Ch 1</A>.
@@ -27,7 +27,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 02</b><br />L1: 21 Jan / L2: 24 Jan
+  <td><b>Week 02</b><br />L1: 21 Jan / L2: 17 Jan
   </td>
   <td>
     <b>Words</b>
@@ -37,7 +37,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 03</b><br />L1: 28 Jan / L2: 31 Jan
+  <td><b>Week 03</b><br />L1: 28 Jan / L2: 24 Jan
   </td>
   <td>
     <b>Language Models</b>
