@@ -138,27 +138,8 @@ Translation:
 <A HREF="mailto:f.xue@u.nus.edu">f.xue@u.nus.edu</A><BR/>
 </div>
 
-<div class="tutor__profile">
-  <img src="images/sakshi.png"/><BR/>
-  <strong>Sakshi Pradyumn</strong>
-  <BR/>
- <A HREF="mailto:e0313722@u.nus.edu">e0313722@u.nus.edu</A><BR/>
 </div>
 
-</div>
-
-<!--
-<div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
-
-<div class="tutor__profile">
-  <img src="images/rahul.jpg"/><BR/>
-  <strong>Rahul BAID</strong>
-  <BR/>
-<A HREF="mailto:rahul.baid@u.nus.edu">rahul.baid@u.nus.edu</A><BR/>
-</div>
-
-</div>
--->
 ## Frequently Asked Questions
 
 1. _What is the format of this course?_
