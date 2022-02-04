@@ -24,14 +24,14 @@ Note that performance on the different macroscopic metrics is not the critical f
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
 <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
 <tbody>
-<tr><td>Interim Project Update</td><td>5%</td></tr>
+<tr><td>Intermediate Project Update</td><td>5%</td></tr>
 <tr><td>Final Project Report</td><td>30%</td></tr>
 <tr><th><b>Total</b></th><th><b>35%</b></th></tr>
 </tbody>
 </table>
 <p><br /></p>
 
-The staff (project mentor and instructor both) will give you feedback on the Interim Update.  
+The staff (project mentor and instructor both) will give you feedback on your group's Intermediate Update.  
 
 In Weeks 10–12, your group may decide to meet with an instructor for additional, ungraded consultation session to offer final advice.  Your team will need to prepare a short presentation deck to present to the staff about the progress of your project.
 
