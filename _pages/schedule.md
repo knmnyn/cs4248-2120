@@ -5,7 +5,7 @@ permalink: /schedule/
 author_profile: false
 ---
 
-Last updated: 11 Jan 2022 to fix the first three weeks' calendar.
+Last updated: 4 Feb 2022 to fix deadlines onto the calendar.
 
 Note that the L1 class will be simulcasted from the physical venue of i3 Auditorium.  Our L2 section will be held on Zoom conferencing only.  Recordings will take place where possible by Zoom and will be made available via LumiNUS.
 
@@ -44,7 +44,8 @@ Note in the Readings column:
     <BR/>· SLP3, Ch 3.
   </td>
   <td>
-    · Self form mini-groups of size 1–3 students for the class project.
+    · Self form mini-groups of size 1–3 students for the class project.<BR/>
+    · Thu 27 Jan: Assignment 1 out. 
   </td>
 </tr>
 <tr>
@@ -55,10 +56,7 @@ Note in the Readings column:
     <BR/>· E, Chs 2–4.  
   </td>
   <td>
-<!--    <BR/>· Assignment 1 due (10% of Final Marks; Due: Thu, 4 Feb 23:59 SGT).
-    <BR/>· Assignment 2 out.
-    <BR/>· Students to fill out team formation form.
--->
+    · Final project groups assembled by the CS4248 staff.
   </td>
 </tr>
 <tr>
@@ -67,7 +65,9 @@ Note in the Readings column:
   <td><b>Connectionist Machine Learning</b>
     <br/>· SLP3, Ch 5.
   </td>
-  <td>· Final project groups assembled by the CS4248 staff.
+  <td>
+    · Thu 10 Feb 23:59 SGT: Assignment 1 due (10% of Final Marks).
+    <BR/>· Thu 10 Feb: Assignment 2 out.
   </td>
 </tr>
 <tr>
@@ -93,8 +93,10 @@ Note in the Readings column:
     <br/>· SLP3, Ch 8.
     <br/>· E, Ch 7.
   </td>
-  <td><!-- · Assignment 3 out.
-    <br/>· Project Proposal (5%; Thu, 4 Mar 23:59 SGT). -->
+  <td>
+    · Thu 10 Feb 23:59 SGT: Assignment 2 due (10% of Final Marks).
+    <br/>· Thu 10 Feb 23:59 SGT: Project Intermediate Update due (5% of Final Marks).
+    <BR/>· Thu 10 Feb: Assignment 3 out.
   </td>
 </tr>
 <tr>
