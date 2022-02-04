@@ -13,7 +13,7 @@ _Warning_ ⚠️: this section of the website is still undergoing revision for t
 A key part of the mastery of any skill is practicing it,
 outside of the formal algorithmic basis for the
 topics.  The **student projects** form an integral part of the assessment.  Student groups should have 4 to 5 group members and will be
-partially self-assembled (into groups of size 1 to 3) and then assembled by the teaching staff into final groups with project preferences and expertise taken into account.    
+partially self-assembled (into groups of size 1 to 3) and then assembled by the teaching staff into final groups with project preferences and expertise taken into account.  You will also be assigned a contact TA as **project mentor** that you should use as a resource for questions and advice.  The TA will correspond with you and attempt to check in with you on a weekly basis.  _It is your responsibility to ensure that your group meets with your project mentor, not your mentor's responsibility to chase you._
 
 Due to the high demand for this course, we have had to make concessions in the scope and variability of the our project component.  The staff will propose a set of suitable datasets for students groups to work with.  
 
@@ -31,9 +31,7 @@ Note that performance on the different macroscopic metrics is not the critical f
 </table>
 <p><br /></p>
 
-The staff and your peers will give you
-feedback.  After the project proposal, you will be assigned a contact
-TA as **project mentor** that you should use as a resource for questions and advice.  The TA will correspond with you and attempt to check in with you on a weekly basis.  _It is your responsibility to ensure that your group meets with your project mentor, not your mentor's responsibility to chase you._
+The staff (project mentor and instructor both) will give you feedback on the Interim Update.  
 
 In Weeks 10–12, your group may decide to meet with an instructor for additional, ungraded consultation session to offer final advice.  Your team will need to prepare a short presentation deck to present to the staff about the progress of your project.
 
@@ -48,3 +46,5 @@ The general grading metrics are as follows:
 * Clarity (how clearly are goals and achievements presented)
 * Scope/Size (in proportion to size of group)
 * Significance (are the questions you are asking interesting)
+
+Detailed grading rubrics will be made available over the course of the project.
