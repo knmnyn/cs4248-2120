@@ -46,6 +46,7 @@ Note in the Readings column:
   <td>
     · Self form mini-groups of size 1–3 students for the class project.<BR/>
     · Thu 27 Jan: Assignment 1 out. 
+    · Tutorial 1<BR/>
   </td>
 </tr>
 <tr>
@@ -68,6 +69,7 @@ Note in the Readings column:
   <td>
     · Thu 10 Feb 23:59 SGT: Assignment 1 due (10% of Final Marks).
     <BR/>· Thu 10 Feb: Assignment 2 out.
+    <BR/>· Tutorial 2
   </td>
 </tr>
 <tr>
@@ -94,9 +96,10 @@ Note in the Readings column:
     <br/>· E, Ch 7.
   </td>
   <td>
-    · Thu 10 Feb 23:59 SGT: Assignment 2 due (10% of Final Marks).
-    <br/>· Thu 10 Feb 23:59 SGT: Project Intermediate Update due (5% of Final Marks).
-    <BR/>· Thu 10 Feb: Assignment 3 out.
+    · Thu 3 Mar 23:59 SGT: Assignment 2 due (10% of Final Marks).
+    <br/>· Thu 3 Mar 23:59 SGT: Project Intermediate Update due (5% of Final Marks).
+    <BR/>· Thu 3 Mar: Assignment 3 out.
+    <BR/>· Tutorial 3
   </td>
 </tr>
 <tr>
@@ -115,8 +118,8 @@ Note in the Readings column:
     <br/>· SLP3, Chs 12, 13, 15.
     <br/>· E, Chs 9, 10.
   </td>
-    <td><!-- · Peer Review of Project Proposals due (Tue, 16 Mar 23:59 SGT).
-    <br/>· Assignment 3 due (15%; Thu, 18 Mar 23:59 SGT)-->
+    <td>· Thu 17 Mar 23:59 SGT: Assignment 3 due (15% of Final Marks).
+       <BR/>· Tutorial 4
   </td>
 </tr>
 <tr>
@@ -132,6 +135,7 @@ Note in the Readings column:
   </td>
   <td><b>Classification Applications</b>
     <br/>· SLP3, Ch 25.
+    <BR/>· Tutorial 5
   </td>
   <td>· Project Consultations (varies)
   </td>
@@ -152,6 +156,7 @@ Note in the Readings column:
   <td><i>No lecture due to lecture synchronization</i>
   </td>
   <td>
+    · Tutorial 6
   </td>
 </tr>
 <tr>
