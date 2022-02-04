@@ -5,9 +5,10 @@ permalink: /schedule/
 author_profile: false
 ---
 
-Last updated: 4 Feb 2022 to fix deadlines onto the calendar.
+Last updated: 4 Feb 2022 to fix deadlines and weekly events onto the calendar.
 
-Note that the L1 class will be simulcasted from the physical venue of i3 Auditorium.  Our L2 section will be held on Zoom conferencing only.  Recordings will take place where possible by Zoom and will be made available via LumiNUS.
+Note that the L1 class will be simulcasted from the physical venue of i3 Auditorium.  Our L2 section will be held on Zoom conferencing only.  Recordings will take place where possible by Zoom and will be made available via LumiNUS.  Deadlines for the class will generally try to be kept on Thursdays.
+
 
 Note in the Readings column:
 * (SLP2) Dan Jurafsky and James Martin, <A href="https://www.cs.colorado.edu/~martin/SLP/">Speech and Language Processing</a>, 2nd edition. _We are only using this previous edition for the first chapter, since it is not finished in the 3e draft._
@@ -53,6 +54,7 @@ Note in the Readings column:
   <td><b>Week 04</b><br />L1: 4 Feb / L2: 7 Feb
   </td>
   <td><b>Text Classification</b>
+    <i>L2: No lecture due to Chinese New Year</i>
     <br/>· SLP3, Ch 4.
     <BR/>· E, Chs 2–4.  
   </td>
@@ -109,6 +111,7 @@ Note in the Readings column:
     <br/>· SLP3, Ch 9.
   </td>
   <td>
+    <br/>· Thu 7 Mar 23:59 SGT: 1st TEAMMATES intragroup peer review due (ungraded).
   </td>
 </tr>
 <tr>
@@ -148,19 +151,23 @@ Note in the Readings column:
     <br/>· E, Ch 18.
   </td>
   <td>· Project Consultations (varies)
+     <br/>· Apr 7 Mar 23:59 SGT: Project Reports due (30% of Final Marks).
   </td>
 </tr>
 <tr>
   <td><b>Week 13</b>
   </td>
-  <td><i>No lecture due to lecture synchronization</i>
+  <td><i>L1: No lecture due to lecture synchronization</i>
   </td>
   <td>
-    · Tutorial 6
+    · Apr 14 Mar 23:59 SGT: 2nd TEAMMATES intragroup peer review due (may moderate Project Report grade)
+    <br/>· Tutorial 6
   </td>
 </tr>
 <tr>
-  <td colspan="3"><b>Reading Week</b>
+  <td colspan="2"><b>Reading Week</b>
+  </td>
+  <td>
   </td>
 </tr>
 <tr>
