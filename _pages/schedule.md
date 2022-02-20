@@ -130,7 +130,7 @@ Note in the Readings column:
   <td><b>Semantics</b>
   </td>
   <td>· Project Consultations (varies)
-    <br/>· Thu 24 Mar 23:59 SGT: Assignment 3 due (15% of Final Marks).
+    <br/>· Thu 24 Mar 23:59 SGT: Assignment 3 due (10% of Final Marks).
   </td>
 </tr>
 <tr>
