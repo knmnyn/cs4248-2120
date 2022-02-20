@@ -5,7 +5,7 @@ permalink: /schedule/
 author_profile: false
 ---
 
-Last updated: 4 Feb 2022 to fix deadlines and weekly events onto the calendar.
+Last updated: 20 Feb 2022 to fix cascading deadlines due to Assignment #1 extension.
 
 Note that the L1 class will be simulcasted from the physical venue of i3 Auditorium.  Our L2 section will be held on Zoom conferencing only.  Recordings will take place where possible by Zoom and will be made available via LumiNUS.  Deadlines for the class will generally try to be kept on Thursdays.
 
@@ -98,9 +98,8 @@ Note in the Readings column:
     <br/>· E, Ch 7.
   </td>
   <td>
-    · Thu 3 Mar 23:59 SGT: Assignment 2 due (10% of Final Marks).
-    <br/>· Thu 3 Mar 23:59 SGT: Project Intermediate Update due (5% of Final Marks).
-    <BR/>· Thu 3 Mar: Assignment 3 out.
+    · Thu 3 Mar 23:59 SGT: Project Intermediate Update due (5% of Final Marks).
+    <br/>· Thu 3 Mar: 1st TEAMMATES intragroup released (ungraded).
     <BR/>· Tutorial 3
   </td>
 </tr>
@@ -111,7 +110,9 @@ Note in the Readings column:
     <br/>· SLP3, Ch 9.
   </td>
   <td>
-    <br/>· Thu 7 Mar 23:59 SGT: 1st TEAMMATES intragroup peer review due (ungraded).
+    · Thu 10 Mar 23:59 SGT: Assignment 2 due (10% of Final Marks).
+    <br/>· Thu 10 Mar 23:59 SGT: 1st TEAMMATES intragroup peer review due (ungraded).
+    <BR/>· Thu 10 Mar: Assignment 3 out.
   </td>
 </tr>
 <tr>
@@ -121,8 +122,7 @@ Note in the Readings column:
     <br/>· SLP3, Chs 12, 13, 15.
     <br/>· E, Chs 9, 10.
   </td>
-    <td>· Thu 17 Mar 23:59 SGT: Assignment 3 due (15% of Final Marks).
-       <BR/>· Tutorial 4
+       · Tutorial 4
   </td>
 </tr>
 <tr>
@@ -131,6 +131,7 @@ Note in the Readings column:
   <td><b>Semantics</b>
   </td>
   <td>· Project Consultations (varies)
+    <br/>· Thu 24 Mar 23:59 SGT: Assignment 3 due (15% of Final Marks).
   </td>
 </tr>
 <tr>
