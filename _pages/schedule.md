@@ -150,8 +150,9 @@ Note in the Readings column:
     <br/>· SLP3, Ch 25.
     <br/>· E, Ch 18.
   </td>
-  <td>· Project Consultations (varies)
+  <td>
      <br/>· Apr 7 Mar 23:59 SGT: Project Reports due (30% of Final Marks).
+     <br/>· Apr 7: 2nd TEAMMATES intragroup peer review out (may moderate Project Report grade)
   </td>
 </tr>
 <tr>
