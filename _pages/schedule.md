@@ -47,7 +47,7 @@ Note in the Readings column:
   <td>
     · Self form mini-groups of size 1–3 students for the class project.<BR/>
     · Thu 27 Jan: Assignment 1 out. 
-    · Tutorial 1<BR/>
+    <br/>· Tutorial 1<BR/>
   </td>
 </tr>
 <tr>
@@ -85,9 +85,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td colspan="2"><b>Week Recess</b><br />
-  </td>
-  <td><!-- · Assignment 2 due (15%; Thu, 25 Feb 23:59 SGT). -->
+  <td colspan="3"><b>Week Recess</b><br />
   </td>
 </tr>
 <tr>
@@ -99,7 +97,7 @@ Note in the Readings column:
   </td>
   <td>
     · Thu 3 Mar 23:59 SGT: Project Intermediate Update due (5% of Final Marks).
-    <br/>· Thu 3 Mar: 1st TEAMMATES intragroup released (ungraded).
+    <br/>· Thu 3 Mar: 1st TEAMMATES intragroup peer review out (ungraded).
     <BR/>· Tutorial 3
   </td>
 </tr>
@@ -122,6 +120,7 @@ Note in the Readings column:
     <br/>· SLP3, Chs 12, 13, 15.
     <br/>· E, Chs 9, 10.
   </td>
+  <td>
        · Tutorial 4
   </td>
 </tr>
@@ -139,9 +138,9 @@ Note in the Readings column:
   </td>
   <td><b>Classification Applications</b>
     <br/>· SLP3, Ch 25.
-    <BR/>· Tutorial 5
   </td>
   <td>· Project Consultations (varies)
+    <BR/>· Tutorial 5
   </td>
 </tr>
 <tr>
