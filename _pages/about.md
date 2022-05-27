@@ -19,7 +19,10 @@ redirect_from:
 </P>
 -->   
 
-_Last updated: 11 Jan 2022 (fixed L1 venue to i3 Aud)_
+
+<div style="text-padding: color:red; background-color:pink; padding:10px"><p>May 2022: This page is for a previous semester.  <a href="https://www.comp.nus.edu.sg/~cs4248/">Go to the current webpage for the course</A>.</p></div>
+
+_Last updated: 27 May 2022 (Point to new semester, not on this website.)_
 
 This module deals with computer processing of human languages, including the use of neural networks and deep learning in natural language processing. The topics covered include: regular expressions, words and edit distance, n-grams, part-of-speech tagging, feed-forward neural networks, neural network training, word embedding, convolutional neural networks, recurrent neural networks, sequence-to-sequence models with attention, transformers, context-free grammars, syntactic parsing, semantics, and discourse.
 
