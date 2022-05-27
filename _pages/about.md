@@ -20,7 +20,7 @@ redirect_from:
 -->   
 
 
-<div style="text-padding: color:red; background-color:pink; padding:10px"><p>May 2022: This page is for a previous semester.  <a href="https://www.comp.nus.edu.sg/~cs4248/">Go to the current webpage for the course</A>.</p></div>
+<div style="text-padding: color:red; background-color:#e28743; padding:10px"><p>May 2022: This page is for a previous semester.  <a href="https://www.comp.nus.edu.sg/~cs4248/">Go to the current webpage for the course</A>.</p></div>
 
 _Last updated: 27 May 2022 (Point to new semester, not on this website.)_
 
